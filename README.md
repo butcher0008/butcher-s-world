@@ -1,2 +1,3 @@
 # butcher-s-world
-Freedom and lonely
+自由而孤独
+新手村第一天
